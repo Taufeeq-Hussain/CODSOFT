@@ -1,6 +1,6 @@
 # CodSoft Internship
 
-## Project Overview
+## Overview
 
 Welcome to the GitHub repository showcasing my internship journey at CodSoft. During this internship, I had the privilege of working on three impactful tasks that allowed me to apply and enhance my skills in data science and machine learning.
 
